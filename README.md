@@ -13,7 +13,7 @@
 
 > ⚠️ **Note**  
 > Old GitHub account got **deleted**.  
-> This is my **new official GitHub profile** – all projects are **re-uploaded here**. 🚀
+> This is my **new GitHub profile** – all projects are **re-uploaded here**. 🚀
 
 
 ### 👨‍💻 About Me
