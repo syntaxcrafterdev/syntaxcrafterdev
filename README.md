@@ -19,6 +19,21 @@
 
 ---
 
+## 🏆 Hackathon Highlight
+
+### 🥇 Winner of SuPrathon 2K25 – *India’s Biggest National Hackathon*
+
+**🚀 Project: MediSafe – AI-Powered Health Document Locker**
+
+- 🔐 Secure health document storage with **Supabase**
+- 🤖 Built-in AI OCR and real-time document analysis
+- ⏱ Completed in under 48 hours by **Team Error**
+
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C897?style=for-the-badge&logo=netlify)](https://medisafe-locker.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-27-bhange/medisafe-health-locker)
+
+---
+
 ### 📺 Latest YouTube Video
 
 > 🎬 Build a Tkinter Calculator with Python  
@@ -98,6 +113,19 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge" />
+</p>
+
+### 🎖️ Achievements Unlocked
+- **Pull Shark** 🦈 – Awarded for successfully merging pull requests  
+- **Quickdraw** 🤠 – Awarded for closing an issue/pull request within 5 minutes
 
 ---
 
