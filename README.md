@@ -9,6 +9,13 @@
 
 ---
 
+![Note](https://img.shields.io/badge/⚠️_Old_Account_Deleted-New_Profile-green?style=for-the-badge)
+
+> ⚠️ **Note**  
+> Old GitHub account got **deleted**.  
+> This is my **new official GitHub profile** – all projects are **re-uploaded here**. 🚀
+
+
 ### 👨‍💻 About Me
 
 - 🎓 Diploma student at Government Polytechnic, Nagpur (2023–26)  
