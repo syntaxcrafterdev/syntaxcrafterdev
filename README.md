@@ -147,10 +147,6 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxcrafterdev&layout=compact&theme=radical)
-
----
-
 ### 📬 Connect With Me
 
 - 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
