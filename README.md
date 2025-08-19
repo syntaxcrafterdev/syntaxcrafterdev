@@ -139,6 +139,18 @@
 
 ---
 
+![Yogendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syntaxcrafterdev&show_icons=true&count_private=true&theme=radical)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syntaxcrafterdev&theme=radical)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxcrafterdev&layout=compact&theme=radical)
+
+---
+
 ### 📬 Connect With Me
 
 - 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
