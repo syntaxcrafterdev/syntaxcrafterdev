@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yogendra Bhange</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">An IT student building real-world projects with code.</h3>
 
 <p align="center">
-  <a href="mailto:yogendrabhange@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/yogendra-27-bhange"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/yogendra-bhange"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="-"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="-"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -18,26 +18,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Diploma student at Government Polytechnic, Nagpur (2023–26)  
+- 🎓 Diploma student (2023–26)  
 - 💡 Passionate about building real-world apps with Python, C++, Flask & Frontend  
 - 🧠 Exploring AI Assistants, **Firebase, and Full-Stack Development  
 - 🌱 Currently improving: Next.js, TypeScript, Tailwind, and APIs  
 - ⚡ Fun fact: I love turning ideas into working code.
 
----
-
-## 🏆 Hackathon Highlight
-
-### 🥇 Winner of SuPrathon 2K25 – *India’s Biggest National Hackathon*
-
-**🚀 Project: MediSafe – AI-Powered Health Document Locker**
-
-- 🔐 Secure health document storage with **Supabase**
-- 🤖 Built-in AI OCR and real-time document analysis
-- ⏱ Completed in under 48 hours by **Team Error**
-
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C897?style=for-the-badge&logo=netlify)](https://medisafe-locker.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-27-bhange/medisafe-health-locker)
 
 ---
 
@@ -139,7 +125,7 @@
 
 ---
 
-![Yogendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syntaxcrafterdev&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syntaxcrafterdev&show_icons=true&count_private=true&theme=radical)
 
 ---
 
@@ -149,10 +135,10 @@
 
 ### 📬 Connect With Me
 
-- 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
-- 🌐 Portfolio: [yyogendra-portfolio.netlify.app](https://yyogendra-portfolio.netlify.app/)  
-- 🔗 GitHub: [yogendra-27-bhange](https://github.com/yogendra-27-bhange)  
-- 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange)
+- 📧 Email: 
+- 🌐 Portfolio: 
+- 🔗 GitHub: 
+- 💼 LinkedIn: 
 
 ---
 
